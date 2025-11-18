@@ -321,6 +321,7 @@ Throttling: 거의 없음
 - **Pimoroni Heatsink Case**: 알루미늄 케이스 겸 방열판
   - https://www.aliexpress.com/p/tesla-landing/index.html?scenario=c_ppc_item_bridge&productId=1005008045488236&_immersiveMode=true&withMainCard=true&src=google-language&aff_platform=true&isdl=y&src=google&albch=shopping&acnt=624-485-3805&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&gclsrc=aw.ds&&albagn=888888&&ds_e_adid=&ds_e_matchtype=&ds_e_device=c&ds_e_network=x&ds_e_product_group_id=&ds_e_product_id=en1005008045488236&ds_e_product_merchant_id=107329050&ds_e_product_country=ZZ&ds_e_product_language=en&ds_e_product_channel=online&ds_e_product_store_id=&ds_url_v=2&albcp=23236047526&albag=&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gad_campaignid=23231856944&gbraid=0AAAAA_Dz3HEKk_m3L6mh-pBX-i9FxpR00&gclid=Cj0KCQiArOvIBhDLARIsAPwJXOY3RGnbFSslhd2wsM9vfTXzh7Env7nOa6OeoEUh6DXFl4iOWLifl9waAnVcEALw_wcB
 - **FLIRC Raspberry Pi Case**: 전체 케이스가 방열판
+  - https://www.amazon.com/Flirc-Raspberry-Pi-Case-Silver/dp/B07WG4DW52?th=1
 
 #### 장단점
 - ✓ 조용함 (소음 없음)
@@ -356,8 +357,11 @@ Throttling: 없음
 
 #### 적합 제품
 - **Raspberry Pi Active Cooler** (공식): PWM 제어, 자동 속도 조절
+  - https://www.devicemart.co.kr/goods/view?no=15276241&gad_source=1&gad_campaignid=17347521302&gbraid=0AAAAAC1BLTcLEr9a6B-JfFi-9sG85hP-T&gclid=Cj0KCQiArOvIBhDLARIsAPwJXOYHyCZOMdkVYOHt5UsQN1NxTLhkwxaLxQctmIpy_aGhMgaGXLiqgukaAiIJEALw_wcB
 - **GeeekPi ICE Tower Cooler**: 강력한 냉각 (40°C 이하 가능)
+  - https://www.amazon.com/GeeekPi-Raspberry-Cooling-Cooler-Heatsink/dp/B07V35SXMC
 - **Argon NEO 5**: 케이스 + 액티브 쿨링
+  - https://www.amazon.com/Argon-NVME-PCIE-Aluminum-Built/dp/B0CRH8V95R
 
 #### 팬 소음
 ```
